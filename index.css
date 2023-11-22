@@ -1,0 +1,301 @@
+
+.social-media{
+   
+    background-size:400px;
+
+}
+.fa{
+    
+    padding: 0px;
+    font-size: 40px;
+    width: 50px;
+    text-align: center;
+    text-decoration:none;
+}
+.fa-twitter{
+    padding-left: 0%;
+    width: 2%;
+    color:black;
+    border: none;
+  }
+.fa-facebook{
+    padding-left:2px;
+    width: 2%;
+    color:black;
+    border: none;
+}
+.fa-youtube{
+    padding-left: 8px;
+    width: 2%;
+   
+    color:black;
+    border: none;
+}
+.fa-pinterest{
+    padding-left: 10px;
+    width: 2%;
+   
+    color:black;
+    border: none;
+}
+.fa-instagram{
+    padding-left: 10px;
+    width: 2%;
+    
+    color:black;
+    border: none;
+}
+  
+.fa:hover {
+    opacity: 0.7;
+}
+
+#logo{
+    max-width: 135px;
+    width: 100%;
+
+    display:inline-block;
+    place-items: center;
+    padding-left:200px;
+    
+
+
+}
+
+.navbar ul{
+    display:flex;
+}
+.navbar ul li{
+    padding:12 px 0px;
+    margin-right: 30px;
+    list-style:none;
+    font-size: 20px;
+    color:orange;
+
+}
+
+.topnav input[type=text]{
+    float: right;
+    padding-left: 100px;
+    border:none;
+    font-size:17px;
+
+}
+
+.img-text img{
+    width:200vh;
+    height:100vh;
+    position:absolute;
+    filter:blur(2px);
+}
+.img-text .content{
+    padding-left:150px;
+    padding-top: 100px;
+    position:relative;
+    color:black;
+    
+
+}
+.content p{
+    font-size: 24px;
+    font-weight: 700vh;
+}
+.content .main-text{
+    font-size: 40px;
+    font-weight: 800;
+}
+.button1-shop{
+    position: absolute;
+    padding-top:130px;
+    padding-left:500px;
+    
+    background-color: yellowgreen;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button1-shop:hover{
+    
+    background-color: #0f93fe;
+
+}
+.button2-about{
+    position: absolute;
+    padding-top:130px;
+    padding-left:500px;
+    
+    background-color: yellowgreen;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button2-shop:hover{
+    
+    background-color: #0f93fe;
+
+}
+
+
+.left{
+    padding-top:20%;
+    position:absolute;
+    padding-left: 100px;
+    max-height:400px;
+
+    
+
+}
+
+
+#product1{
+    padding-top:58%;
+    position: absolute;
+    padding-left:0%;
+
+}
+#product2{
+    padding-top:58%;
+    position:absolute;
+    padding-left:8%;
+}
+#product3{
+    padding-top:58%;
+    position:absolute;
+    padding-left:16%;
+}
+#product4{
+    padding-top:58%;
+    position:absolute;
+    padding-left:25%;
+}
+#product5{
+    padding-top:58%;
+    position:absolute;
+    padding-left:33%;
+}
+#product7{
+    padding-top:58%;
+    position:absolute;
+    padding-left: 42%;
+}
+
+.right{
+    font-style: inherit;
+    font-weight: 100;
+    font-size: 20px;
+    padding-left: 700px;
+    padding-top: 17%;
+    position:relative;
+}
+.premium{
+    
+    font-size: 40px;
+    color:black;
+}
+.premium:hover{
+    color:#0f93fe;
+
+}
+
+
+
+.collection-title{
+    padding-top: 10%;
+    display:flex;
+}
+
+.ileft{
+    font-size:20px;
+    font-style: inherit;
+    font-weight: 100;
+    padding-left:30px;
+    position:relative;
+
+}
+.alglaw{
+    font-size:40px;
+    
+}
+.ileft.p{
+    
+    font-size: 20px;
+    
+}
+
+
+.collection-title.iright{
+    position:absolute;
+    padding-left: 700px;
+    max-height:400px;
+}
+
+.aut{
+    padding-left: 500px;
+    font-size: 28px;
+    font-family:Muli,sans-serif ;
+    font-weight: 900;
+    font-style: normal;   
+    line-height: 1.5;
+    color: #333;
+    letter-spacing: 0px;
+    margin-bottom: 0.5em; 
+    text-rendering: optimizeLegibility;
+    cursor:pointer;
+    display: inline-block;
+}
+
+.aut-sec{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.first{
+    flex:33.33%;
+    padding:5px;
+    
+}
+.first.btn1{
+    display: block;
+    position: absolute;
+    left:0;
+    top:0;
+    transform: translate(-50%,-50%);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btn1:hover{
+    background-color:navajowhite;
+}
+
+.second{
+    flex:33.33%;
+    padding:5px;
+}
+.third{
+    flex:33.33%;
+    padding:5px;
+}
+.end{
+    background-color:gray;
+}
+.good{
+    padding-top: 5%;
+    
+}
+.social-media1{
+    padding-left: 50px;
+    
+}
+.policy{
+    padding-left:500px ;
+    padding-top: 5%;
+}
+
+
